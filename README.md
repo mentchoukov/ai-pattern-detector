@@ -7,6 +7,8 @@ It is designed to identify **meaningful structure in behavior, interactions, and
 This framework is used as a supporting layer within larger AI systems (e.g. AI Buddy) to inform decision-making, workflow optimization, and insight discovery.
 
 > Note: This repository intentionally abstracts implementation details to protect proprietary methods.
+For a conceptual overview of applied AI pattern detection, see:  
+https://mench.ai/ai-pattern-detector/
 
 ---
 
